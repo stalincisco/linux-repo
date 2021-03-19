@@ -1,0 +1,20 @@
+Create a github repository
+Clone or point the local repository to the remote
+Add a file to the staging/index
+Commit the file to local repository
+Make changes to the same file
+Squash the change
+Commit the first change to local repository
+Restore the second change and commit
+Push the changes to the remote
+Create a remote branch
+Make changes to the file in new branch
+Commit changes from new branch
+Switch to Master
+Make changes to the same file
+Commit the change and push to remote
+Switch to feature branch
+Make changes to the file
+Commit the change
+Merge the changes onto Master
+Push the change to remote
